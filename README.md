@@ -27,8 +27,6 @@ Let's connect, swap ideas, or just geek out over microservices (or JRPGs)! 😄
 
 Currently, I'm a Senior Developer Advocate at @AWSCloud. Opinions are my own.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingmatheus&layout=compact)](https://github.com/codingmatheus/github-readme-stats)
-
 ### 💻 My Tech Stack
 
 <table>
@@ -94,6 +92,8 @@ Currently, I'm a Senior Developer Advocate at @AWSCloud. Opinions are my own.
   </td>
 </tr>
 </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingmatheus&layout=compact)](https://github.com/codingmatheus/github-readme-stats)
 
 ### 🌟 Featured Projects
 
