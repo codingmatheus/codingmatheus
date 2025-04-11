@@ -8,24 +8,7 @@
 [![TikTok Follow](https://img.shields.io/badge/<SUBJECT>-250+-<COLOR>.svg?color=FDD506&label=TikTok&labelColor=010101&style=for-the-badge)](https://www.tiktok.com/@codingmatheus/)
 [![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=FDD506&label=BlueSky&labelColor=00aff0&style=for-the-badge)](https://bluesky.com/codingmatheus)
 
-### Blogs: <a href="https://medium.com/@codingmatheus"><code>Medium</code></a> | <a href="https://dev.to/yourusername"><code>Dev.to</code></a> | <a href="https://community.aws/@codingmatheus"><code>Community.AWS</code></a>
-
-<table style="border: none; border-collapse: collapse;" border=0>
-  <tr style="border: none;">
-    <td style="border: none; vertical-align: middle; padding-right: 10px;"><b style="font-size:20px">Blogs:</b></td>
-    <td style="border: none; vertical-align: middle;">
-      <a href="https://medium.com/@codingmatheus">
-        <img src="https://img.shields.io/badge/Medium-12100e.svg?style=for-the-badge" alt="Medium"/> 
-      </a> 
-      <a href="https://dev.to/yourusername">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/> 
-      </a> 
-       <a href="https://community.aws/@codingmatheus">
-        <img src="https://img.shields.io/badge/Community.aws-FF9900.svg?style=for-the-badge" alt="Community.aws"/> 
-      </a> 
-    </td>
-  </tr>
-</table>
+### Blogs: <a href="https://medium.com/@codingmatheus"><code>Medium</code></a> | <a href="https://dev.to/codingmatheus"><code>Dev.to</code></a> | <a href="https://community.aws/@codingmatheus"><code>Community.AWS</code></a>
 
 ## 🎤 International Speaker | 💻 .NET & Microservices Specialist | 📹 Content Creator
 ##### Speaks: English, Portuguese, and Japanese
