@@ -127,7 +127,8 @@ Currently, I'm a Senior Developer Advocate at AWS. Opinions are my own.
 </tr>
 </table>
 
-[![Top Languages](https://img.shields.io/github/languages/top/:codingmatheus)]
+![GitHub top language](https://img.shields.io/github/languages/top/:codingmatheus)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingmatheus&layout=compact)](https://github.com/codingmatheus/github-readme-stats) 
 
