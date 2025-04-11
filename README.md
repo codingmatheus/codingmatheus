@@ -141,6 +141,6 @@ Currently, I'm a Senior Developer Advocate at AWS. Opinions are my own.
 <a href="https://linkedin.com/in/codingmatheus"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://twitter.com/codingmatheus"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
 <a href="https://instagram.com/codingmatheus"><img src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagramr&logoColor=white"></a>
-<a href="https://bsky.app/profile/codingmatheus.bsky.social"><img src="https://img.shields.io/badge/Bluesky-231DA1F2?style=for-the-badge"></a>
+<a href="https://bsky.app/profile/codingmatheus.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge"></a>
 <a href="https://codingmatheus.github.io"><img src="https://img.shields.io/badge/Website-FDD506?style=for-the-badge"></a>
 
