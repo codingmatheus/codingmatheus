@@ -6,7 +6,7 @@
 [![Instagram Follow](https://img.shields.io/badge/<SUBJECT>-600+-<COLOR>.svg?color=15307B&label=Instagram&style=for-the-badge)](https://www.instagram.com/codingmatheus/)
 [![Twitter Follow](https://img.shields.io/badge/<SUBJECT>-700+-<COLOR>.svg?color=15307B&label=Twitter&style=for-the-badge)](https://twitter.com/codingmatheus)
 [![TikTok Follow](https://img.shields.io/badge/<SUBJECT>-250+-<COLOR>.svg?color=15307B&label=TikTok&style=for-the-badge)](https://www.tiktok.com/@codingmatheus/)
-[![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=15307B&label=Follow&style=for-the-badge)](https://bluesky.com/codingmatheus)
+[![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=15307B&label=BlueSky&style=for-the-badge)](https://bluesky.com/codingmatheus)
 [![Website](https://img.shields.io/badge/Website-Visit-2bbc8a.svg?style=for-the-badge)](https://codingmatheus.github.io)
 
 ## 🎤 International Speaker | 💻 .NET & Microservices Specialist | 📹 Content Creator
