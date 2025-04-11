@@ -20,20 +20,15 @@
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
       </a>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>
-      **Blogs** 
-    </th>
-  </tr>
-  <tr>
     <td>
-      [![Medium](https://img.shields.io/badge/Medium-12100e.svg?style=for-the-badge)](https://medium.com/@codingmatheus)
-      [![Dev.To](https://img.shields.io/badge/Dev.To-000000.svg?style=for-the-badge)](https://dev.to/codingmatheus)
-      [![Community.aws](https://img.shields.io/badge/Community.aws-FF9900.svg?style=for-the-badge)](https://community.aws/@codingmatheus)
+      <a href="https://dev.to/codignmatheus">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://community.aws/@codingmatheus">
+        <img src="https://img.shields.io/badge/Community.aws-FF9900.svg?style=for-the-badge" alt="Dev.to"/>
+      </a>
     </td>
   </tr>
 </table>
