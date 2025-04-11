@@ -130,9 +130,6 @@ Currently, I'm a Senior Developer Advocate at AWS. Opinions are my own.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingmatheus)](https://github.com/codingmatheus/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingmatheus&layout=compact)](https://github.com/codingmatheus/github-readme-stats) 
-
-
 ### 🌟 Featured Projects
 
 <a href="https://github.com/codingmatheus/valkey-latency-demo">
