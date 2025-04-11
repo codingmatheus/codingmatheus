@@ -2,11 +2,11 @@
 # Hello, I'm codingmatheus! 👋
 
 [![LinkedIn Follow](https://img.shields.io/badge/<SUBJECT>-6k+-<COLOR>.svg?color=FDD506&label=LinkedIn&labelColor=007bb6&style=for-the-badge)](https://www.linkedin.com/in/codingmatheus/)
-[![YouTube Follow](https://img.shields.io/badge/<SUBJECT>-2.5+-<COLOR>.svg?color=FDD506&label=YouTube&style=for-the-badge)](https://www.youtube.com/codingmatheus/)
-[![Instagram Follow](https://img.shields.io/badge/<SUBJECT>-600+-<COLOR>.svg?color=FDD506&label=Instagram&style=for-the-badge)](https://www.instagram.com/codingmatheus/)
-[![Twitter Follow](https://img.shields.io/badge/<SUBJECT>-700+-<COLOR>.svg?color=FDD506&label=Twitter&style=for-the-badge)](https://twitter.com/codingmatheus)
-[![TikTok Follow](https://img.shields.io/badge/<SUBJECT>-250+-<COLOR>.svg?color=FDD506&label=TikTok&style=for-the-badge)](https://www.tiktok.com/@codingmatheus/)
-[![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=FDD506&label=BlueSky&style=for-the-badge)](https://bluesky.com/codingmatheus)
+[![YouTube Follow](https://img.shields.io/badge/<SUBJECT>-2.5+-<COLOR>.svg?color=FDD506&label=YouTube&labelColor=ff0000&style=for-the-badge)](https://www.youtube.com/codingmatheus/)
+[![Instagram Follow](https://img.shields.io/badge/<SUBJECT>-600+-<COLOR>.svg?color=FDD506&label=Instagram&labelColor=c32aa3&style=for-the-badge)](https://www.instagram.com/codingmatheus/)
+[![Twitter Follow](https://img.shields.io/badge/<SUBJECT>-700+-<COLOR>.svg?color=FDD506&label=Twitter&labelColor=55acee&style=for-the-badge)](https://twitter.com/codingmatheus)
+[![TikTok Follow](https://img.shields.io/badge/<SUBJECT>-250+-<COLOR>.svg?color=FDD506&label=TikTok&labelColor=010101&style=for-the-badge)](https://www.tiktok.com/@codingmatheus/)
+[![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=FDD506&label=BlueSky&laeblColor=00aff0&style=for-the-badge)](https://bluesky.com/codingmatheus)
 [![Website](https://img.shields.io/badge/Website-Visit-FDD506.svg?style=for-the-badge)](https://codingmatheus.github.io)
 
 ## 🎤 International Speaker | 💻 .NET & Microservices Specialist | 📹 Content Creator
