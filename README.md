@@ -7,7 +7,8 @@
 [![Twitter Follow](https://img.shields.io/badge/<SUBJECT>-700+-<COLOR>.svg?color=FDD506&label=Twitter&labelColor=55acee&style=for-the-badge)](https://twitter.com/codingmatheus)
 [![TikTok Follow](https://img.shields.io/badge/<SUBJECT>-250+-<COLOR>.svg?color=FDD506&label=TikTok&labelColor=010101&style=for-the-badge)](https://www.tiktok.com/@codingmatheus/)
 [![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=FDD506&label=BlueSky&labelColor=00aff0&style=for-the-badge)](https://bluesky.com/codingmatheus)
-[![Website](https://img.shields.io/badge/Website-Visit-FDD506.svg?style=for-the-badge)](https://codingmatheus.github.io)
+[![Linktree](https://img.shields.io/badge/Linktree-FDD506.svg?style=for-the-badge)](https://linktr.ee/codingmatheus)
+[![Website](https://img.shields.io/badge/Website-FDD506.svg?style=for-the-badge)](https://codingmatheus.com)
 
 ## 🎤 International Speaker | 💻 .NET & Microservices Specialist | 📹 Content Creator
 ##### Speaks: English, Portuguese, and Japanese
