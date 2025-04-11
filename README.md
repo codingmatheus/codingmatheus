@@ -15,7 +15,7 @@
 
 Hey there 👋 
 
-I'm Matheus Guimarães—also known online as @codingmatheus— a .NET and microservices specialist, international keynote speaker, and Developer Advocate at AWS.
+I'm Matheus Guimaraes—also known online as @codingmatheus— a .NET and microservices specialist, international keynote speaker, and Developer Advocate at AWS.
 
 I've been building software for over 20 years, ever since my first job as a junior video game programmer back when C++ ruled the world and .NET was just a glimmer on the horizon. I was one of the early adopters of .NET (even before my first full-time job!) and it's been a passion ever since—guiding my path through roles like developer, tech lead, architect, CTO, and startup founder.
 
