@@ -1,7 +1,7 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4E16AQFn0A7UHIKF5g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723314445595?e=1749686400&v=beta&t=UeJULtWoeuo7YVScb5kMpIHgx3wNp2Jhn8Me3Sb04VU)
 # Hello, I'm codingmatheus! 👋
 
-[![LinkedIn Follow](https://img.shields.io/badge/<SUBJECT>-6k+-<COLOR>.svg?color=FDD506&label=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/codingmatheus/)
+[![LinkedIn Follow](https://img.shields.io/badge/<SUBJECT>-6k+-<COLOR>.svg?color=FDD506&label=LinkedI-%23007bb6n&style=for-the-badge)](https://www.linkedin.com/in/codingmatheus/)
 [![YouTube Follow](https://img.shields.io/badge/<SUBJECT>-2.5+-<COLOR>.svg?color=FDD506&label=YouTube&style=for-the-badge)](https://www.youtube.com/codingmatheus/)
 [![Instagram Follow](https://img.shields.io/badge/<SUBJECT>-600+-<COLOR>.svg?color=FDD506&label=Instagram&style=for-the-badge)](https://www.instagram.com/codingmatheus/)
 [![Twitter Follow](https://img.shields.io/badge/<SUBJECT>-700+-<COLOR>.svg?color=FDD506&label=Twitter&style=for-the-badge)](https://twitter.com/codingmatheus)
@@ -138,7 +138,7 @@ Currently, I'm a Senior Developer Advocate at AWS. Opinions are my own.
 
 <p>To book me as a speaker or propose a collaboration, feel free to reach out:</p>
 
-<a href="https://linkedin.com/in/codingmatheus"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://linkedin.com/in/codingmatheus"><img src="https://img.shields.io/badge/linkedin-%23007bb6.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://twitter.com/codingmatheus"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
 <a href="https://instagram.com/codingmatheus"><img src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagramr&logoColor=white"></a>
 <a href="https://bsky.app/profile/codingmatheus.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge"></a>
