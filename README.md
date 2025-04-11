@@ -10,6 +10,7 @@
 [![Website](https://img.shields.io/badge/Website-Visit-2bbc8a.svg?style=for-the-badge)](https://codingmatheus.github.io)
 
 ## 🎤 International Speaker | 💻 .NET & Microservices Specialist | 📹 Content Creator
+# Speaks: English, Portuguese, and Japanese
 
 Hey there 👋 
 
@@ -32,7 +33,7 @@ Currently, I'm a Senior Developer Advocate at @AWSCloud. Opinions are my own.
 <table>
 <tr>
   <td align="center">
-    <h3 align="center">Programming</h3>
+    <h3 align="center">Languages</h3>
   </td>
   <td align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=60 height=60 align="center">
@@ -47,8 +48,8 @@ Currently, I'm a Senior Developer Advocate at @AWSCloud. Opinions are my own.
     <h3 align="center">TypeScript</h3>
   </td>
    <td align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=60 height=60 align="center">
-    <h3 align="center">Node.js</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=60 height=60 align="center">
+    <h3 align="center">Javascript</h3>
   </td>
   <td align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=60 height=60 align="center">
@@ -58,37 +59,66 @@ Currently, I'm a Senior Developer Advocate at @AWSCloud. Opinions are my own.
 
 <tr>
   <td align="center">
-    <h3 align="center">Back-End</h3>
+    <h3 align="center">Frameworks</h3>
   </td>
    <td align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width=60 height=60 align="center">
     <h3 align="center">.NET</h3>
   </td>
+   <td align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=60 height=60 align="center">
+    <h3 align="center">Next.Js</h3>
+  </td>
   <td align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width=60 height=60 align="center">
-    <h3 align="center">AWS</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width=60 height=60 align="center">
+    <h3 align="center">Flask</h3>
   </td>
  <td align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=60 height=60 align="center">
     <h3 align="center">Node.js</h3>
   </td>
+  <td align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=60 height=60 align="center">
+    <h3 align="center">React</h3>
+  </td>
 </tr>
-  
 <tr>
   <td align="center">
-    <h3 align="center">Front-End</h3>
+    <h3 align="center">Cloud</h3>
   </td>
     <td align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=60 height=60 align="center">
-    <h3 align="center">Next.Js</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=60 height=60 align="center">
+    <h3 align="center">AWS</h3>
   </td>
-  <td align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=60 height=60 align="center">
-    <h3 align="center">HTML5</h3>
+   <td align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width=60 height=60 align="center">
+    <h3 align="center">Azure</h3>
   </td>
+</tr>
+<tr>
   <td align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=60 height=60 align="center">
-    <h3 align="center">CSS3</h3>
+    <h3 align="center">Game Engines</h3>
+  </td>
+    <td align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width=60 height=60 align="center">
+    <h3 align="center">Godot</h3>
+  </td>
+   <td align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-plain.svg" width=60 height=60 align="center">
+    <h3 align="center">Unity</h3>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <h3 align="center">Favorite IDEs</h3>
+  </td>
+    <td align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" width=60 height=60 align="center">
+    <h3 align="center">Rider</h3>
+  </td>
+   <td align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60 height=60 align="center">
+    <h3 align="center">VS Code</h3>
   </td>
 </tr>
 </table>
