@@ -9,12 +9,19 @@
 [![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=FDD506&label=BlueSky&labelColor=00aff0&style=for-the-badge)](https://bluesky.com/codingmatheus)
 
 
-<div>
-  <span style="vertical-align: middle; font-size: 1.5em; font-weight: bold;">Blogs: </span>
-  <a href="https://medium.com/@codingmatheus">
-    <img src="https://img.shields.io/badge/Medium-12100e.svg?style=for-the-badge" alt="Medium" style="vertical-align: middle;"/>
-  </a>
-</div>
+<table border="0">
+  <tr>
+    <td><b style="font-size:20px">Blogs:</b></td>
+    <td>
+      <a href="https://medium.com/@codingmatheus">
+        <img src="https://img.shields.io/badge/Medium-12100e.svg?style=for-the-badge" alt="Medium"/>
+      </a>
+      <a href="https://dev.to/yourusername">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
