@@ -8,7 +8,12 @@
 [![TikTok Follow](https://img.shields.io/badge/<SUBJECT>-250+-<COLOR>.svg?color=FDD506&label=TikTok&labelColor=010101&style=for-the-badge)](https://www.tiktok.com/@codingmatheus/)
 [![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=FDD506&label=BlueSky&labelColor=00aff0&style=for-the-badge)](https://bluesky.com/codingmatheus)
 
-## Blogs: ### Medium 
+<h3 style="display: inline-block; margin-right: 10px;">Blogs:</h3>
+<span style="font-size: 16px;">
+  <a href="https://medium.com/@codingmatheus" style="text-decoration: none; color: #333; font-weight: 500; margin-right: 10px;">Medium</a> |
+  <a href="https://dev.to/yourusername" style="text-decoration: none; color: #333; font-weight: 500; margin: 0 10px;">Dev.to</a> |
+  <a href="https://community.aws/@codingmatheus" style="text-decoration: none; color: #333; font-weight: 500; margin-left: 10px;">Community.AWS</a>
+</span>
 
 <table style="border: none; border-collapse: collapse;" border=0>
   <tr style="border: none;">
