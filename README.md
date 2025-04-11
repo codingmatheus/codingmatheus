@@ -9,7 +9,7 @@
 [![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=FDD506&label=BlueSky&labelColor=00aff0&style=for-the-badge)](https://bluesky.com/codingmatheus)
 
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;" border=0>
   <tr style="border: none;">
     <td style="border: none; vertical-align: middle; padding-right: 10px;"><b style="font-size:20px">Blogs:</b></td>
     <td style="border: none; vertical-align: middle;">
