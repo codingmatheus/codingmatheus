@@ -127,7 +127,6 @@ Currently, I'm a Senior Developer Advocate at AWS. Opinions are my own.
 </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingmatheus&layout=compact)](https://github.com/codingmatheus/github-readme-stats) 
 
 ### 🌟 Featured Projects
 
