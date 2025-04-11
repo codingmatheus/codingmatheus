@@ -26,7 +26,7 @@ Outside of tech, I'm a gamer (Final Fantasy forever), karaoke lover, swimmer, mu
 
 Let's connect, swap ideas, or just geek out over microservices (or JRPGs)! 😄
 
-Currently, I'm a Senior Developer Advocate at @AWSCloud. Opinions are my own.
+Currently, I'm a Senior Developer Advocate at AWS. Opinions are my own.
 
 ### 💻 My Tech Stack
 
