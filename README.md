@@ -8,6 +8,7 @@
 [![TikTok Follow](https://img.shields.io/badge/<SUBJECT>-250+-<COLOR>.svg?color=FDD506&label=TikTok&labelColor=010101&style=for-the-badge)](https://www.tiktok.com/@codingmatheus/)
 [![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=FDD506&label=BlueSky&labelColor=00aff0&style=for-the-badge)](https://bluesky.com/codingmatheus)
 
+## Blogs
 [![Medium](https://img.shields.io/badge/Medium-12100e.svg?style=for-the-badge)](https://medium.com/@codingmatheus)
 [![Dev.To](https://img.shields.io/badge/Dev.To-000000.svg?style=for-the-badge)](https://dev.to/codingmatheus)
 [![Community.aws](https://img.shields.io/badge/Community.aws-FF9900.svg?style=for-the-badge)](https://community.aws/@codingmatheus)
