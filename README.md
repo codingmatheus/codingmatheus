@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQFn0A7UHIKF5g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723314445595?e=1749686400&v=beta&t=UeJULtWoeuo7YVScb5kMpIHgx3wNp2Jhn8Me3Sb04VU)
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQGs8S0QTqwaVg/profile-displaybackgroundimage-shrink_350_1400/B4EZYkKv9DG0AY-/0/1744363520505?e=1749686400&v=beta&t=2Nh7zPRxyR8pELtnKYhYzVk6lxhVRyDgYWZBxdAVSOQ)
 # Hello, I'm codingmatheus! 👋
 
 [![LinkedIn Follow](https://img.shields.io/badge/<SUBJECT>-6k+-<COLOR>.svg?color=FDD506&label=LinkedIn&labelColor=007bb6&style=for-the-badge)](https://www.linkedin.com/in/codingmatheus/)
