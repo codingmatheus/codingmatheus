@@ -1,13 +1,13 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4E16AQFn0A7UHIKF5g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723314445595?e=1749686400&v=beta&t=UeJULtWoeuo7YVScb5kMpIHgx3wNp2Jhn8Me3Sb04VU)
 # Hello, I'm codingmatheus! 👋
 
-[![LinkedIn Follow](https://img.shields.io/badge/<SUBJECT>-6k+-<COLOR>.svg?color=15307B&label=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/codingmatheus/)
-[![YouTube Follow](https://img.shields.io/badge/<SUBJECT>-2.5+-<COLOR>.svg?color=15307B&label=YouTube&style=for-the-badge)](https://www.youtube.com/codingmatheus/)
-[![Instagram Follow](https://img.shields.io/badge/<SUBJECT>-600+-<COLOR>.svg?color=15307B&label=Instagram&style=for-the-badge)](https://www.instagram.com/codingmatheus/)
-[![Twitter Follow](https://img.shields.io/badge/<SUBJECT>-700+-<COLOR>.svg?color=15307B&label=Twitter&style=for-the-badge)](https://twitter.com/codingmatheus)
-[![TikTok Follow](https://img.shields.io/badge/<SUBJECT>-250+-<COLOR>.svg?color=15307B&label=TikTok&style=for-the-badge)](https://www.tiktok.com/@codingmatheus/)
-[![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=15307B&label=BlueSky&style=for-the-badge)](https://bluesky.com/codingmatheus)
-[![Website](https://img.shields.io/badge/Website-Visit-2bbc8a.svg?style=for-the-badge)](https://codingmatheus.github.io)
+[![LinkedIn Follow](https://img.shields.io/badge/<SUBJECT>-6k+-<COLOR>.svg?color=FDD506&label=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/codingmatheus/)
+[![YouTube Follow](https://img.shields.io/badge/<SUBJECT>-2.5+-<COLOR>.svg?color=FDD506&label=YouTube&style=for-the-badge)](https://www.youtube.com/codingmatheus/)
+[![Instagram Follow](https://img.shields.io/badge/<SUBJECT>-600+-<COLOR>.svg?color=FDD506&label=Instagram&style=for-the-badge)](https://www.instagram.com/codingmatheus/)
+[![Twitter Follow](https://img.shields.io/badge/<SUBJECT>-700+-<COLOR>.svg?color=FDD506&label=Twitter&style=for-the-badge)](https://twitter.com/codingmatheus)
+[![TikTok Follow](https://img.shields.io/badge/<SUBJECT>-250+-<COLOR>.svg?color=FDD506&label=TikTok&style=for-the-badge)](https://www.tiktok.com/@codingmatheus/)
+[![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=FDD506&label=BlueSky&style=for-the-badge)](https://bluesky.com/codingmatheus)
+[![Website](https://img.shields.io/badge/Website-Visit-FDD506.svg?style=for-the-badge)](https://codingmatheus.github.io)
 
 ## 🎤 International Speaker | 💻 .NET & Microservices Specialist | 📹 Content Creator
 ##### Speaks: English, Portuguese, and Japanese
