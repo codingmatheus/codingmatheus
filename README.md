@@ -21,6 +21,7 @@
       [![Community.aws](https://img.shields.io/badge/Community.aws-FF9900.svg?style=for-the-badge)](https://community.aws/@codingmatheus)
     </td>
   </tr>
+</table>
 
 ## 🎤 International Speaker | 💻 .NET & Microservices Specialist | 📹 Content Creator
 ##### Speaks: English, Portuguese, and Japanese
