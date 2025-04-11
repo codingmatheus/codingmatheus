@@ -8,6 +8,14 @@
 [![TikTok Follow](https://img.shields.io/badge/<SUBJECT>-250+-<COLOR>.svg?color=FDD506&label=TikTok&labelColor=010101&style=for-the-badge)](https://www.tiktok.com/@codingmatheus/)
 [![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=FDD506&label=BlueSky&labelColor=00aff0&style=for-the-badge)](https://bluesky.com/codingmatheus)
 
+
+<div>
+  <span style="vertical-align: middle; font-size: 1.5em; font-weight: bold;">Blogs: </span>
+  <a href="https://medium.com/@codingmatheus">
+    <img src="https://img.shields.io/badge/Medium-12100e.svg?style=for-the-badge" alt="Medium" style="vertical-align: middle;"/>
+  </a>
+</div>
+
 <table>
   <tr>
     <th>
