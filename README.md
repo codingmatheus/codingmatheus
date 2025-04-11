@@ -15,13 +15,13 @@
     <td style="border: none; vertical-align: middle;">
       <a href="https://medium.com/@codingmatheus">
         <img src="https://img.shields.io/badge/Medium-12100e.svg?style=for-the-badge" alt="Medium"/>
-      </a>
+      </a> 
       <a href="https://dev.to/yourusername">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-      </a>
+      </a> 
        <a href="https://community.aws/@codingmatheus">
         <img src="https://img.shields.io/badge/Community.aws-FF9900.svg?style=for-the-badge" alt="Dev.to"/>
-      </a>
+      </a> 
     </td>
   </tr>
 </table>
