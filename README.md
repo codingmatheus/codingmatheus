@@ -8,8 +8,10 @@
 [![TikTok Follow](https://img.shields.io/badge/<SUBJECT>-250+-<COLOR>.svg?color=FDD506&label=TikTok&labelColor=010101&style=for-the-badge)](https://www.tiktok.com/@codingmatheus/)
 [![BlueSky Follow](https://img.shields.io/badge/<SUBJECT>-Follow-<COLOR>.svg?color=FDD506&label=BlueSky&labelColor=00aff0&style=for-the-badge)](https://bluesky.com/codingmatheus)
 
-[![Linktree](https://img.shields.io/badge/Linktree-008000.svg?style=for-the-badge)](https://linktr.ee/codingmatheus)
-[![Website](https://img.shields.io/badge/Website-FDD506.svg?style=for-the-badge)](https://codingmatheus.com)
+[![Medium](https://img.shields.io/badge/Medium-02b875.svg?style=for-the-badge)](https://medium.com/@codingmatheus)
+[![Dev.To](https://img.shields.io/badge/Dev.To-FFFFFF.svg?style=for-the-badge)](https://dev.to/codingmatheus)
+[![Community.aws](https://img.shields.io/badge/Community.aws-FF9900.svg?style=for-the-badge)](https://community.aws/@codingmatheus)
+
 
 ## 🎤 International Speaker | 💻 .NET & Microservices Specialist | 📹 Content Creator
 ##### Speaks: English, Portuguese, and Japanese
@@ -29,6 +31,9 @@ Outside of tech, I'm a gamer (Final Fantasy forever), karaoke lover, swimmer, mu
 Let's connect, swap ideas, or just geek out over microservices (or JRPGs)! 😄
 
 Currently, I'm a Senior Developer Advocate at AWS. Opinions are my own.
+
+[![Linktree](https://img.shields.io/badge/Linktree-008000.svg?style=for-the-badge)](https://linktr.ee/codingmatheus)
+[![Website](https://img.shields.io/badge/Website-FDD506.svg?style=for-the-badge)](https://codingmatheus.com)
 
 ### 💻 My Tech Stack
 
