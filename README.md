@@ -21,11 +21,6 @@
       </a>
     </td>
     <td>
-      <a href="https://dev.to/codignmatheus">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-      </a>
-    </td>
-    <td>
       <a href="https://community.aws/@codingmatheus">
         <img src="https://img.shields.io/badge/Community.aws-FF9900.svg?style=for-the-badge" alt="Dev.to"/>
       </a>
