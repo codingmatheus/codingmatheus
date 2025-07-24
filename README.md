@@ -10,7 +10,7 @@
 
 ### Blogs: <a href="https://medium.com/@codingmatheus"><code>Medium</code></a> | <a href="https://dev.to/codingmatheus"><code>Dev.to</code></a> | <a href="https://community.aws/@codingmatheus"><code>Community.AWS</code></a>
 
-## 🎤 International Speaker | 💻 .NET & Microservices Specialist | 📹 Content Creator
+## 🎤 International Keynote Speaker | 💻 Digital Transformation | AI | Microservices | 📹 Content Creator
 ##### Speaks: English, Portuguese, and Japanese
 
 Hey there 👋 
