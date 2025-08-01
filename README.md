@@ -1,5 +1,5 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4E16AQGpUJfpkpdTwA/profile-displaybackgroundimage-shrink_350_1400/B4EZg26BDGGUAc-/0/1753267836013?e=1756944000&v=beta&t=KXfqHsKXkXYV7l_MyxxfSJs8hT0_mGZCKqL1HoviGgk)
-# Hello, I'm codingmatheus! 👋
+# Hello, I'm Matheus Guimaraes, aka codingmatheus! 👋
 
 [![LinkedIn Follow](https://img.shields.io/badge/<SUBJECT>-6k+-<COLOR>.svg?color=FDD506&label=LinkedIn&labelColor=007bb6&style=for-the-badge)](https://www.linkedin.com/in/codingmatheus/)
 [![YouTube Follow](https://img.shields.io/badge/<SUBJECT>-2.5+-<COLOR>.svg?color=FDD506&label=YouTube&labelColor=ff0000&style=for-the-badge)](https://www.youtube.com/codingmatheus/)
