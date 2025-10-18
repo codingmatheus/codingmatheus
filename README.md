@@ -14,21 +14,22 @@
 ## 📹 Content Creator
 ##### Speaks: English, Portuguese, and Japanese
 
-Hey there 👋 
+Hey there 👋
 
-I'm Matheus Guimaraes—also known online as @codingmatheus— a .NET and microservices specialist, international keynote speaker, and Developer Advocate at AWS.
+I'm Matheus Guimarães, also known online as @codingmatheus
+. I'm a .NET and microservices specialist, AI transformation advocate, and international keynote speaker.
 
-I've been building software for over 20 years, ever since my first job as a junior video game programmer back when C++ ruled the world and .NET was just a glimmer on the horizon. I was one of the early adopters of .NET (even before my first full-time job!) and it's been a passion ever since—guiding my path through roles like developer, tech lead, architect, CTO, and startup founder.
+I've spent over two decades building software, leading teams, and guiding companies through modernization — from early cloud migrations and distributed systems to today's wave of AI-driven digital transformation. My journey began as a junior game programmer when C++ ruled the world and .NET was just emerging. Since then, I’ve worked as a developer, architect, CTO, startup co-founder, while doing everything in between.
 
-Over the years, I've helped companies of all sizes modernize and scale their systems—from scrappy startups to global enterprises like Novartis, McLaren, Dewalt, PRS For Music, Coca Cola and more. I've led digital transformations, migrated legacy systems, and designed cloud-native architectures with a hands-on, people-first approach.
+Across projects for organizations like Novartis, McLaren, Dewalt, PRS for Music, and Coca-Cola, I’ve designed cloud-native architectures, led large-scale transformations, and mentored teams on building scalable, resilient systems. What drives me most is helping developers and leaders connect the dots between architecture, AI, and impact.
 
-Today, I share what I learn with developers around the world as @codingmatheus—through talks, blogs, videos, and very geeky whiteboard sessions. I've spoken at conferences across the globe (including keynotes), and I'm passionate about helping others grow in this industry that gave me so much.
+Today, I share what I learn as @codingmatheus through talks, videos, and open-source demos, teaching practical ways to bring modern architecture and AI into real-world production systems.
 
-Outside of tech, I'm a gamer (Final Fantasy forever), karaoke lover, swimmer, musician, and occasional actor. I believe creativity and code go hand in hand—and there's always more to explore.
+Outside of tech, I’m a gamer (Final Fantasy forever ⚔️), swimmer, musician, and karaoke enthusiast who believes creativity and code are two sides of the same coin.
 
-Let's connect, swap ideas, or just geek out over microservices (or JRPGs)! 😄
+Let's connect, swap ideas, or geek out over microservices or JRPGs 😄
 
-Currently, I'm a Senior Developer Advocate at AWS. Opinions are my own.
+Currently: Senior Developer Advocate at AWS. Opinions are my own.
 
 [![Linktree](https://img.shields.io/badge/Linktree-008000.svg?style=for-the-badge)](https://linktr.ee/codingmatheus)
 [![Website](https://img.shields.io/badge/Website-FDD506.svg?style=for-the-badge)](https://codingmatheus.com)
