@@ -16,7 +16,7 @@
 
 Hey there 👋
 
-I'm Matheus Guimarães, also known online as @codingmatheus
+I'm Matheus Guimaraes, also known online as @codingmatheus
 . I'm a .NET and microservices specialist, AI transformation advocate, and international keynote speaker.
 
 I've spent over two decades building software, leading teams, and guiding companies through modernization — from early cloud migrations and distributed systems to today's wave of AI-driven digital transformation. My journey began as a junior game programmer when C++ ruled the world and .NET was just emerging. Since then, I’ve worked as a developer, architect, CTO, startup co-founder, while doing everything in between.
