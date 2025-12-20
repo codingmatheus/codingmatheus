@@ -10,24 +10,21 @@
 
 ### Blogs: <a href="https://medium.com/@codingmatheus"><code>Medium</code></a> | <a href="https://dev.to/codingmatheus"><code>Dev.to</code></a> | <a href="https://community.aws/@codingmatheus"><code>Community.AWS</code></a>
 
-## 🎤 International Keynote Speaker | 💻 Digital Transformation | AI | Microservices
-## 📹 Content Creator
+## 🎤 International Keynote Speaker | 💻 .NET | Microservices | Cloud Architecture
+## 📹 Developer Educator & Content Creator
 ##### Speaks: English, Portuguese, and Japanese
 
 Hey there 👋
 
-I'm Matheus Guimaraes, also known online as @codingmatheus
-. I'm a .NET and microservices specialist, AI transformation advocate, and international keynote speaker.
+I’m Matheus Guimaraes, also known online as @codingmatheus. I’m a .NET and microservices specialist, architecture nerd, and international keynote speaker.
 
-I've spent over two decades building software, leading teams, and guiding companies through modernization — from early cloud migrations and distributed systems to today's wave of AI-driven digital transformation. My journey began as a junior game programmer when C++ ruled the world and .NET was just emerging. Since then, I’ve worked as a developer, architect, CTO, startup co-founder, while doing everything in between.
+I’ve spent over 25 years building software, designing distributed systems, and helping teams modernize how they build and run applications. My journey started as a junior game programmer back when C++ ruled the world and .NET was just getting started. Since then, I’ve worked as a developer, architect, CTO, startup co-founder, and pretty much everything in between.
 
-Across projects for organizations like Novartis, McLaren, Dewalt, PRS for Music, and Coca-Cola, I’ve designed cloud-native architectures, led large-scale transformations, and mentored teams on building scalable, resilient systems. What drives me most is helping developers and leaders connect the dots between architecture, AI, and impact.
+Across projects for organizations like Novartis, McLaren, Dewalt, PRS for Music, and Coca-Cola, I’ve designed cloud-native architectures, led large-scale platform transformations, and mentored teams on building scalable, resilient systems. What drives me most is helping developers connect architecture decisions to real-world outcomes.
 
-Today, I share what I learn as @codingmatheus through talks, videos, and open-source demos, teaching practical ways to bring modern architecture and AI into real-world production systems.
+Today, I share what I learn through talks, videos, blog posts, and open-source demos, focusing on .NET, microservices, cloud architecture, and production-ready systems.
 
 Outside of tech, I’m a gamer (Final Fantasy forever ⚔️), swimmer, musician, and karaoke enthusiast who believes creativity and code are two sides of the same coin.
-
-Let's connect, swap ideas, or geek out over microservices or JRPGs 😄
 
 Currently: Senior Developer Advocate at AWS. Opinions are my own.
 
